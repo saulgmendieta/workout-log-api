@@ -31,7 +31,7 @@ All responses use the JSend shape: `{ "status": "success" | "fail" | "error", "d
 An exercise looks like this:
 
 ```json
-{ "id": "1", "name": "Bench press", "muscleGroup": "chest", "equipment": "barbell", "difficulty": 3 }
+{ "id": "3f2b8c1e-7a4d-4e9b-9c2a-5d1e6f7a8b90", "name": "Bench press", "muscleGroup": "chest", "equipment": "barbell", "difficulty": 3 }
 ```
 
 ## Run it
